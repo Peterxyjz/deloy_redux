@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/deloy_redux/static/css/main.666b85f0.css",
-    "main.js": "/deloy_redux/static/js/main.714168d0.js",
-    "static/js/453.c7569dbb.chunk.js": "/deloy_redux/static/js/453.c7569dbb.chunk.js",
-    "static/media/logo.svg": "/deloy_redux/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
-    "index.html": "/deloy_redux/index.html",
-    "main.666b85f0.css.map": "/deloy_redux/static/css/main.666b85f0.css.map",
-    "main.714168d0.js.map": "/deloy_redux/static/js/main.714168d0.js.map",
-    "453.c7569dbb.chunk.js.map": "/deloy_redux/static/js/453.c7569dbb.chunk.js.map"
+    "main.css": "/deploy_redux/static/css/main.666b85f0.css",
+    "main.js": "/deploy_redux/static/js/main.c0de4409.js",
+    "static/js/453.c7569dbb.chunk.js": "/deploy_redux/static/js/453.c7569dbb.chunk.js",
+    "static/media/logo.svg": "/deploy_redux/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/deploy_redux/index.html",
+    "main.666b85f0.css.map": "/deploy_redux/static/css/main.666b85f0.css.map",
+    "main.c0de4409.js.map": "/deploy_redux/static/js/main.c0de4409.js.map",
+    "453.c7569dbb.chunk.js.map": "/deploy_redux/static/js/453.c7569dbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.666b85f0.css",
-    "static/js/main.714168d0.js"
+    "static/js/main.c0de4409.js"
   ]
 }
